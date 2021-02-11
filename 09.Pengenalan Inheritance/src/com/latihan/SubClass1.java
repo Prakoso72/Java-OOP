@@ -1,5 +1,5 @@
 package com.latihan;
 
-public class SubClass1 extends ParentClass {
+public class SubClass1 extends SuperClass {
 
 }
